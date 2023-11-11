@@ -1,5 +1,6 @@
 <h1>Hi, I'm Lauren! <br/><a href="https://github.com/LaurenBaker01">Cybersecurity Professional & Student</a>
 
+
  <section class="section">
         <h2>Professional Summary</h2>
         <p>
@@ -19,10 +20,6 @@
 <h2>Professional Experince</h2>
 
 - [Resume](https://coursera.org/share/a7133a43a12ac34672be7e6e1f3e6158)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
