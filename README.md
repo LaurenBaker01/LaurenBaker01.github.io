@@ -1,5 +1,4 @@
-<h1>Hi, I'm Lauren! <br/><a href="https://github.com/LaurenBaker01">Cybersecurity Professional & Student</a>, <a href="[https://www.linkedin.com/in/LaurenBakermi/]"
-
+<h1>Hi, I'm Lauren! <br/><a href="https://github.com/LaurenBaker01">Cybersecurity Professional & Student</a>
 
  <section class="section">
         <h2>Professional Summary</h2>
@@ -28,7 +27,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]:(https://www.linkedin.com/in/laurenbakermi/)
+[LinkedIn](https://www.linkedin.com/in/laurenbakermi/)
 
 
 - 🔭 I’m currently working on ...
